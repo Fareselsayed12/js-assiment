@@ -1,0 +1,28 @@
+h1{
+    font-size: 5rem;
+    font-weight: 700;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 2rem;
+
+}
+button{
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    margin-top: 2.5rem;
+}
+button:hover{
+    background-color: green;
+}
+span{
+    text-align: center;
+    font-size: 1.625rem;
+    display: block;
+
+}
